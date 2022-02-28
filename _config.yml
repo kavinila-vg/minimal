@@ -1,9 +1,7 @@
-title:  <p align="center">Kavinila VG</p>
+title: Kavinila VG
 logo: /assets/img/my_profile.jpeg
 description: 
 description:
-
-  <p align="center">
   <a href="https://github.com/kavinila-vg">GitHub</a>
   
   <br>   
@@ -11,6 +9,5 @@ description:
   Worked in IBM and Azure cloud services.
   Working in Drug repurposing and related research.
   <br>
-  </p>
 
 theme: jekyll-theme-minimal
